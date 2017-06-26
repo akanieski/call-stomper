@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="alice">You are a dirty scammer. You have been identified. You will now be spammed.</Say>
+    <Say voice="alice">Hello you dirty scammer. You will now be spammed.</Say>
+    <Play>http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
